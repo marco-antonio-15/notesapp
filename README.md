@@ -70,7 +70,7 @@ defineBackend({
 
 npx ampx sandbox
 
-$ Step 6: Install the Amplify libraries
+# Step 6: Install the Amplify libraries
 npm install aws-amplify @aws-amplify/ui-react
 
 # Step 7: Build the frontend and commit code
