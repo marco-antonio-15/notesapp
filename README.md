@@ -36,16 +36,16 @@ git push origin main
 Sign in to the AWS Management console in a new browser window, and open the AWS Amplify console at https://console.aws.amazon.com/amplify/apps.
 Choose Create new app.
 
-2.- Connect to your GitHub repository
+2. Connect to your GitHub repository
 On the Start building with Amplify page, for Deploy your app, select GitHub, and select Next.
 
-3.- Authorize and select your respository
+3. Authorize and select your respository
 When prompted, authenticate with GitHub. You will be automatically redirected back to the Amplify console. Choose the repository and main branch you created earlier. Then, select Next.
 
-4.- Configure build settings
+4. Configure build settings
 Leave the default build settings and select Next.
 
-5.- Deploy your application
+5. Deploy your application
 Review the inputs selected, and choose Save and deploy.
 
 # Step 5: Set up Amplify Data
